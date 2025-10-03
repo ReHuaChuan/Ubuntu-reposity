@@ -1,0 +1,12 @@
+{
+    "[c]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "seaube.clangformat"
+    },
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
